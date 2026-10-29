@@ -88,3 +88,4 @@ def create_sample_pdf(filename="sample_document.pdf"):
 
 if __name__ == "__main__":
     create_sample_pdf()
+
